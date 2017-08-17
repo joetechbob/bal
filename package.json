@@ -1,0 +1,23 @@
+{
+    "name": "bal",
+    "version": "0.0.0-alpha",
+    "description": "BAL Framework",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/joetechbob/bal.git"
+    },
+    "keywords": [
+      "BAL"
+    ],
+    "author": "joetechbob",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/joetechbob/bal/issues"
+    },
+    "homepage": "https://github.com/joetechbob/bal#readme"
+  }
+  
