@@ -18,6 +18,7 @@
     "bugs": {
       "url": "https://github.com/joetechbob/bal/issues"
     },
-    "homepage": "https://github.com/joetechbob/bal#readme"
+    "homepage": "https://github.com/joetechbob/bal#readme",
+    "dependencies": {
+    }
   }
-  
